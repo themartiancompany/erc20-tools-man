@@ -27,7 +27,7 @@ erc20-token-send
 =================
 
 --------------------------------------------------------------
-Ethereum *RC-20 token sender tool
+Ethereum \*RC-20 token sender tool
 --------------------------------------------------------------
 :Version: erc20-token-send |version|
 :Manual section: 1
